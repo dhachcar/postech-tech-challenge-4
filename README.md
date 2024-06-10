@@ -1,9 +1,4 @@
 # postech-tech-challenge-4
-Repositório com o 4º Tech Challenge da FIAP PosTech
-
-
-
-# postech-tech-challenge-4
 Repositório dos notebooks para o 4º Tech Challenge da FIAP<br/>
 **Link Streamlit: https://postech-tech-challenge-4-danilo-henrique-achcar.streamlit.app/**
 
